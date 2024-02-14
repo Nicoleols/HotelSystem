@@ -1,4 +1,4 @@
-package com.example.projetohotel2;
+package com.example.projetohotel2.Negocio;
 
 import java.time.LocalDate;
 

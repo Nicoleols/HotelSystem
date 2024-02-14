@@ -1,4 +1,5 @@
-package com.example.projetohotel2;
+package com.example.projetohotel2.Dados;
+import com.example.projetohotel2.Negocio.Reserva;
 
 import java.util.ArrayList;
 
